@@ -24,20 +24,11 @@
 </p>
 
 <h1>Estadisticas 📊</h1>
-# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoyMARcode&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+<img src="https://raw.githubusercontent.com/SoyMARcode/SoyMARcode/main/profile/stats.svg" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyMARcode&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=SoyMARcode&hide_border=true&theme=transparent" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SoyMARcode&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://raw.githubusercontent.com/SoyMARcode/SoyMARcode/main/profile/top-langs.svg" height="180">
 
 </div>
