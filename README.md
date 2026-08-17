@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**SoyMARcode/SoyMARcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" >
+<img src="https://media.giphy.com/media/MbYOYYHXxuHXQ7KG8n/giphy.gif" width="200"><h1> Bienvenid@s al GitHub de MARcode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<p align="center">
+  <img src="github-header-banner (1).png" alt="Banner de SoyMARcode">
+</p>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  
+</div>
+
+
+
+ ¡Hola! Soy Michael Acevedo, desarrollador en formación apasionado por la tecnología y la programación. Me gusta crear proyectos, resolver problemas mediante el código y aprender constantemente nuevas herramientas y tecnologías. Actualmente trabajo con **PHP, Python, JavaScript, HTML y CSS**, fortaleciendo mis conocimientos en desarrollo web y construyendo proyectos que me permitan seguir creciendo como desarrollador. 
+<h1> Tecnologias💻</h1>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+</p>
+
+<h1>Estadisticas 📊</h1>
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SoyMARcode&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyMARcode&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=SoyMARcode&hide_border=true&theme=transparent" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SoyMARcode&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
