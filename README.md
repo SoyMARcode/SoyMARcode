@@ -1,7 +1,8 @@
 
 
 <div id="header" >
-<img src="https://media.giphy.com/media/MbYOYYHXxuHXQ7KG8n/giphy.gif" width="200">
+<p align="center">
+<img src="https://media.giphy.com/media/MbYOYYHXxuHXQ7KG8n/giphy.gif" width="350">
 <h1>Bienvenid@s al GitHub de MARcode </h1>
 
 </div>
