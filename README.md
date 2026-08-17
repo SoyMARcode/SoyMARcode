@@ -1,7 +1,8 @@
 
 
 <div id="header" >
-<img src="https://media.giphy.com/media/MbYOYYHXxuHXQ7KG8n/giphy.gif" width="200"><h1> Bienvenid@s al GitHub de MARcode
+<img src="https://media.giphy.com/media/MbYOYYHXxuHXQ7KG8n/giphy.gif" width="200">
+<h1>Bienvenid@s al GitHub de MARcode </h1>
 
 </div>
 <p align="center">
@@ -32,3 +33,5 @@
 <img src="https://raw.githubusercontent.com/SoyMARcode/SoyMARcode/main/profile/top-langs.svg" height="180">
 
 </div>
+
+
